@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as s}from"./index-5c470a5f.js";const a={name:"Main",data(){return{msg:"Welcome to Your Vue.js App"}}},n={id:"main"},c=s("h1",null,"Main",-1),r=[c];function _(i,d,p,m,u,l){return t(),o("div",n,r)}const h=e(a,[["render",_]]);export{h as default};
